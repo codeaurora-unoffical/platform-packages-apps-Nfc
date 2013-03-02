@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="confirm_pairing" >"Tem certeza de que deseja parear o dispositivo Bluetooth <xliff:g id="DEVICE_NAME">%1$s</xliff:g>?"</string>
+    <string name="app_name" >"Serviço Nfc"</string>
+    <string name="inbound_me_profile_title" >"Contato recebido por NFC"</string>
+    <string name="pairing_headset" >"Pareando"</string>
+    <string name="connect_headset_failed" >"Não foi possível conectar"</string>
+    <string name="cancel" >"Cancelar"</string>
+    <string name="pairing_headset_failed" >"Não foi possível parear"</string>
+    <string name="nfcUserLabel" >"Nfc"</string>
+    <string name="accessibility_nfc_enabled" >"NFC habilitado."</string>
+    <string name="touch" >"Toque para iluminar"</string>
+    <string name="beam_failed" >"O feixe não foi concluído"</string>
+    <string name="pair_no" >"Não"</string>
+    <string name="beam_complete" >"Irradiação concluída"</string>
+    <string name="beam_touch_to_view" >"Toque para visualizar"</string>
+    <string name="failed_to_enable_bt" >"Não foi possível ativar o Bluetooth"</string>
+    <string name="disconnected_headset" >"Desconectado"</string>
+    <string name="disconnecting_headset" >"Desconectando"</string>
+    <string name="beam_progress" >"Feixe de entrada..."</string>
+    <string name="outbound_me_profile_title" >"Interação de NFC completa"</string>
+    <string name="inbound_me_profile_text" >"Toque para adicionar essa pessoa como um contato."</string>
+    <string name="outbound_me_profile_text" >"Toque para fornecer suas informações de contato para essa pessoa"</string>
+    <string name="beam_canceled" >"Feixe cancelado"</string>
+    <string name="connecting_headset" >"Conectando"</string>
+    <string name="beam_handover_not_supported" >"O dispositivo receptor não suporta a transferência de arquivos grandes através do feixe."</string>
+    <string name="pair_yes" >"Sim"</string>
+    <string name="connected_headset" >"Conectado"</string>
+</resources>
